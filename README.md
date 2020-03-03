@@ -1,4 +1,4 @@
-# Alchemical_FEP_FOXO1
+# AlchemFEP_FOXO1
 
 # These scripts combine two types of Gromacs topology files:
 
